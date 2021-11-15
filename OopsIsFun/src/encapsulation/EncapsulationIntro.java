@@ -1,5 +1,6 @@
+package encapsulation;
 
-public class Oops1 {
+public class EncapsulationIntro {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
